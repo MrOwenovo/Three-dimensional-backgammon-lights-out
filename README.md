@@ -26,8 +26,8 @@
 ![wbe2.png](https://s2.loli.net/2022/07/01/bIhHDMVkUL2Z5Tw.png)
 <p align="center">三维四子棋加载界面</p>
 
-![web9.png](https://s2.loli.net/2022/07/01/8oAu592ghDTQMsx.png)
+![屏幕截图 2022-07-01 231834.png](https://s2.loli.net/2022/07/01/dRI3zyiGNftx82j.png)
 <p align="center">三维四子棋操作提示</p>
 
-![web10.png](https://s2.loli.net/2022/07/01/UcNkqfzlKa5B4JV.png)
+![屏幕截图 2022-07-01 233450.png](https://s2.loli.net/2022/07/01/eJLm6YNGiDZMdQI.png)
 <p align="center">AI游戏过程画面</p>
